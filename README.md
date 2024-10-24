@@ -88,13 +88,9 @@
 
 ### Variable declaration: var, const, let
 
-In JavaScript, there are three keywords available to declare a variable, and each has its differences. Those are ```var```, ```let``` and ```const```.
-
 #### Short explanation
 
-Variables declared with ```const``` keyword can't be reassigned, while ```let``` and ```var``` can.
-
-I recommend always declaring your variables with ```const``` by default, but with ```let``` if it is a variable that you need to *mutate* or reassign later.
+Variables declared with `const` keyword can't be reassigned, while `let` and `var` can. declaring your variables with `const` by default, but with `let` if it is a variable that you need to *mutate* or reassign later.
 
 <table>
   <tr>
